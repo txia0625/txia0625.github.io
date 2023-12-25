@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Tong',
   tagline: 'Share what I learned.',
-  url: 'https://messiahhh.github.io/',
-  baseUrl: '/blog/', 
+  url: 'https://txia0625.github.io',
+  baseUrl: '/', 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
