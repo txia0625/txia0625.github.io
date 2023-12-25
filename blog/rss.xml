@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Tong Blog</title>
-        <link>https://messiahhh.github.io/blog/blog</link>
+        <link>https://txia0625.github.io/blog</link>
         <description>Tong Blog</description>
         <lastBuildDate>Mon, 25 Dec 2023 02:54:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>zh-Hans</language>
         <item>
             <title><![CDATA[记录分享技术]]></title>
-            <link>https://messiahhh.github.io/blog/blog/test</link>
-            <guid>https://messiahhh.github.io/blog/blog/test</guid>
+            <link>https://txia0625.github.io/blog/test</link>
+            <guid>https://txia0625.github.io/blog/test</guid>
             <pubDate>Mon, 25 Dec 2023 02:54:31 GMT</pubDate>
         </item>
     </channel>
