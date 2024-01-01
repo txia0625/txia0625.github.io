@@ -24,12 +24,12 @@ const sidebars = {
     
     {
       type: 'category',
-      label: 'Python',
+      label: 'General Backend',
       link:{
         type: 'doc',
-        id: 'Python/Syntax',
+        id: 'Backend General/MD5 General',
       },
-      items: ['Python/Syntax'],
+      items: ['Backend General/MD5 General'],
     },
   ],
   
