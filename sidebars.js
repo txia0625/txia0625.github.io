@@ -29,7 +29,7 @@ const sidebars = {
         type: 'doc',
         id: 'Backend General/MD5 General',
       },
-      items: ['Backend General/MD5 General'],
+      items: ['Backend General/MD5 General','Backend General/Why JWT'],
     },
   ],
   

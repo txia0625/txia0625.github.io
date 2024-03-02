@@ -8,6 +8,9 @@ sidebarDepth: 4
 ## Currently Focus On
 - Backend Development
 - Go Lang
-- SpringBoot
-- Python/Flask
+
+## Current Articles
+3/2/2024 - just added an article about JWT, check it out
+
+1/24/2023 - added an article about MD5
 
