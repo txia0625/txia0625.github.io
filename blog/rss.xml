@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Tong Blog</title>
+        <link>https://txia0625.github.io/blog</link>
+        <description>Tong Blog</description>
+        <lastBuildDate>Mon, 25 Dec 2023 02:54:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[记录分享技术]]></title>
+            <link>https://txia0625.github.io/blog/test</link>
+            <guid>https://txia0625.github.io/blog/test</guid>
+            <pubDate>Mon, 25 Dec 2023 02:54:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
